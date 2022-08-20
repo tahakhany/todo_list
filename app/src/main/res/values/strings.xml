@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To Do List</string>
+	<string name="Main_Activity_ToDoList_Edt_Hint">To Do List…</string>
+	<string name="Main_Activity_addBtn_display_text">Add</string>
+</resources>
